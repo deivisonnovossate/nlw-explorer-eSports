@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rockseat
 
-[Clique aqui para acessar](http://deivison.novossate.github.io/nlw-explorer-eSports)
+[Clique aqui para acessar](https://deivisonnovossate.github.io/nlw-explorer-eSports/)
 
 
 ## Technologies
